@@ -1,2 +1,2 @@
 # CosmoAI-Assignments
-Assignments in SQL, Python, ML that demonstrate by proficiency in these tech skills 
+Assignments in SQL, Python, ML that demonstrate my proficiency in these tech skills 
